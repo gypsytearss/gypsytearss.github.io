@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Colin Rennie"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Colin Rennie"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,14 +77,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Colin Rennie"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Rutgers MS CS 2017 -- Interests and expertise in machine learning, robotics, and data science."
+  location         : "Central NJ"
+  email            : "colinmatthew@gmail.com"
   uri              :
-  bitbucket        :
-  codepen          :
+  bitbucket        : "colinmatthew"
+  codepen          : 
   dribbble         :
   flickr           :
   facebook         :
@@ -94,13 +94,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "colin-rennie-27901635"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "colindelsol"
   vine             :
   weibo            :
   xing             :

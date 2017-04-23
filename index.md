@@ -3,10 +3,6 @@ layout: single
 author_profile: true
 header:
   image: /assets/images/avatar.jpg
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/avatar.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 > "I love writing. I get a kick out of sharing my thoughts with others. The act of transforming ideas into words is an amazingly efficient way to solidify and refine your thoughts about a given topic. " -Tom Preston (creator of Jekyll), [Blogging Like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)

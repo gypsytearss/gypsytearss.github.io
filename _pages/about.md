@@ -1,6 +1,7 @@
 ---
-layout: splash
+layout: single
 title: About
+author_profile: true
 permalink: /about/
 ---
 > "I love writing. I get a kick out of sharing my thoughts with others. The act of transforming ideas into words is an amazingly efficient way to solidify and refine your thoughts about a given topic. " -Tom Preston (creator of Jekyll), [Blogging Like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)

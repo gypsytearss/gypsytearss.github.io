@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/tri_banner_v2.jpg
+  image: /assets/images/tri_banner_v3.jpg
   caption: "Robots, Yosemite, and more robots."
 ---
 > "The ideal engineer is a composite… He is not a scientist, he is not a mathematician, he is not a sociologist or a writer, but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems." - NW Dougherty

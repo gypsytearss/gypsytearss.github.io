@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Colin Rennie"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Interests and expertise in machine learning, robotics, and data science."
-  location         : "Central NJ"
+  bio              : "Machine learning, robotics, and data science."
+  location         : "Highland Park, NJ"
   email            : "colinmatthew@gmail.com"
   uri              :
   bitbucket        : "colinmatthew"

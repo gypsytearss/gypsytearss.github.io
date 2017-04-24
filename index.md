@@ -5,7 +5,7 @@ header:
   image: /assets/images/tri_banner_v2.jpg
   caption: "Robots, Yosemite, and more robots."
 ---
-> "I love writing. I get a kick out of sharing my thoughts with others. The act of transforming ideas into words is an amazingly efficient way to solidify and refine your thoughts about a given topic. " -Tom Preston (creator of Jekyll), [Blogging Like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)
+> "The ideal engineer is a composite… He is not a scientist, he is not a mathematician, he is not a sociologist or a writer, but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems." - NW Dougherty
 
 I'm a 29-year old data scientist and software developer currently living in central New Jersey. For the past few years I've been working on research problems in applied machine learning and robotics as a member of the [Pracsys Lab](http://www.pracsyslab.org/) at [Rutgers University](http://www.cs.rutgers.edu/). 
 	
